@@ -11,4 +11,6 @@ The implementation is split into different modules which implement the basic ver
 
 Please look into the *README* files of each module for more details.
 
+The test graphs to be used with these implementations should be in a file with Matrix Market File Format.
+
 The source of sample data present in the repository is [divorce laws](https://sparse.tamu.edu/Pajek/divorce) in [SuiteSparse Matrix Collection](https://sparse.tamu.edu/)

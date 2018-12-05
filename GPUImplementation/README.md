@@ -4,8 +4,8 @@ This module implements bipartite matching without Group Relabeling or Work Lists
 
 Please run the Makefile to compile the code using the following commans
 
-  make
+ # make
 
 The input file to this implementation should be in the Matrix Market File Format. The code can be run using the provided sample file with the following command
 
-  ./bipartiteMatching ../SampleData/divorceMM/divorce.mtx
+#  ./bipartiteMatching ../SampleData/divorceMM/divorce.mtx

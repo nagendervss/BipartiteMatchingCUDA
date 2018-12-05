@@ -1,7 +1,7 @@
 # BipartiteMatchingCUDA
 Bipartite Matching Implementations
 
-Implementation of the paper "A Push-Relabel-Based Maximum Cardinality Bipartite Matching Algorithm on GPUs".
+Implementation of the paper *A Push-Relabel-Based Maximum Cardinality Bipartite Matching Algorithm on GPUs*.
 
 The implementation is split into different modules which implement the basic version of bipartite matching, bipartite matching with global relabeling and bipartite matching with work lists. The modules are as follows
 

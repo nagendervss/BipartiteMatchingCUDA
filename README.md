@@ -5,9 +5,9 @@ Implementation of the paper "A Push-Relabel-Based Maximum Cardinality Bipartite 
 
 The implementation is split into different modules which implement the basic version of bipartite matching, bipartite matching with global relabeling and bipartite matching with work lists. The modules are as follows
 
-> GPUImplementation : Basic version of bipartite matching as described in the paper
-> GPUImplementationGR : Bipartite Matching with global relabeling as described in the paper
-> GPUImplementationWL : Bipartite Matching with work lists as described in the paper
+> GPUImplementation : Basic version of bipartite matching as described in the paper<br/>
+> GPUImplementationGR : Bipartite Matching with global relabeling as described in the paper<br/>
+> GPUImplementationWL : Bipartite Matching with work lists as described in the paper<br/>
 
 Please look into the *README* files of each module for more details.
 

@@ -11,4 +11,4 @@ The implementation is split into different modules which implement the basic ver
 
 Please look into the *README* files of each module for more details.
 
-The source of sample data present in the repository is from [divorce laws](https://sparse.tamu.edu/Pajek/divorce) in [SuiteSparse Matrix Collection](https://sparse.tamu.edu/)
+The source of sample data present in the repository is [divorce laws](https://sparse.tamu.edu/Pajek/divorce) in [SuiteSparse Matrix Collection](https://sparse.tamu.edu/)
